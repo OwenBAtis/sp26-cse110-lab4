@@ -1,0 +1,2 @@
+1. The bug in the code is that the two numbers are being concatinated as strings instead of being added. 
+2. To solve this issue, you can specifically type cast the numbers in the calculateSum function to properly add the result. 
